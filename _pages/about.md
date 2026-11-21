@@ -37,7 +37,6 @@ Junteng Liu is a first-year PhD candidate at the HKUST NLP Group. He is pursuing
 - **Research Intern**, MINIMAX, February 2025–Present.
 - **Research Intern**, Tencent WXG, June 2024–September 2024; advisor: Zifei Shan.
 - **Research Intern**, Shanghai AI Lab, June 2023–December 2023; advisor: Prof. Yu Cheng.
-- **PhD Researcher**, HKUST NLP Group, 2024–Present; supervisor: Professor Junxian He.
 
 ## Publications
 

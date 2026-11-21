@@ -37,7 +37,6 @@ Ph.D. in Computer Science, Hong Kong University of Science and Technology (2024�
 - **Research Intern**, MINIMAX, February 2025–Present.
 - **Research Intern**, Tencent WXG, June 2024–September 2024; advisor: Zifei Shan.
 - **Research Intern**, Shanghai AI Lab, June 2023–December 2023; advisor: Prof. Yu Cheng.
-- **PhD Researcher**, HKUST NLP Group, 2024–Present; supervisor: Professor Junxian He.
 
 ## Skills and Research Interests
 
