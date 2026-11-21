@@ -1,5 +1,5 @@
 # Personalized Academic Pages configuration for Junteng Liu.
-# Values are limited to information recorded in the connected memory.
+# Profile values are limited to the connected memory.
 
 locale: "en-US"
 site_theme: "default"
@@ -11,9 +11,7 @@ url: "https://weldantimplode12.github.io"
 baseurl: "/LJT-Homepage"
 repository: "WeldAntImplode12/LJT-Homepage"
 
-far: false
-
-# Sidebar author profile
+# Sidebar profile
 author:
   avatar: "https://avatars.githubusercontent.com/u/77915985?v=4"
   name: "Junteng Liu"
@@ -24,7 +22,7 @@ author:
   github: "Vicent0205"
   twitter: "junteng88716710"
 
-# Social metadata
+# SEO and social metadata
 twitter:
   username: "junteng88716710"
 og_image: "og-image.png"
@@ -38,7 +36,6 @@ social:
     - "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
     - "https://x.com/junteng88716710"
 
-# Publication category labels retained from Academic Pages.
 publication_category:
   books:
     title: "Books"
@@ -57,41 +54,11 @@ atom_feed:
   hide: false
   path:
 
-# File handling
+# Jekyll file handling
 include:
   - .htaccess
   - _pages
   - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Dockerfile
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - local
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -181,6 +148,7 @@ sass:
 
 permalink: /:categories/:title/
 timezone: Etc/UTC
+future: true
 
 plugins:
   - jekyll-feed
